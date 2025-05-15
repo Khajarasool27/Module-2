@@ -12,9 +12,7 @@ To write a Python program that defines a *lambda function* which takes two argum
 ```
 num1=int(input())
 num2=int(input())
-
 f = lambda num1, num2: num1+num2
-
 print(f(num1, num2))
 ```
 ## Output
