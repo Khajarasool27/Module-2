@@ -41,11 +41,10 @@ for i in range(1, rows+1):
             count = count * (i - j)//j
         print(count, end = " ")
     print()
-
+```
 ## Sample Output
 
 ![WhatsApp Image 2025-05-15 at 10 33 56_a9a7346a](https://github.com/user-attachments/assets/0a289fec-5073-46e0-a5cc-38cd8ddc2eab)
-```
 
 ## Result
 
